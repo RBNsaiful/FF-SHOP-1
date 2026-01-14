@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Copy of FF SHOP",
+  "description": "",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
